@@ -49,11 +49,11 @@ namespace Spacial_Partition.QuadTrees.Movers {
 			nodes[3] = new QuadTree(level + 1, new Rectangle(x + subWidth, y + subHeight, subWidth, subHeight));
 		}
 
-		/*
-		* Determine which node the object belongs to. -1 means
-		* object cannot completely fit within a child node and is part
-		* of the parent node
-		*/
+		
+		// Determine which node the object belongs to. -1 means
+		// object cannot completely fit within a child node and is part
+		// of the parent node
+		
 		private int GetIndex(Mover pRect) {
 			int index = -1;
 			double verticalMidpoint = bounds.X + (bounds.Width / 2);
@@ -115,9 +115,9 @@ namespace Spacial_Partition.QuadTrees.Movers {
 			}
 		}
 
-		/*
-		* Return all objects that could collide with the given object (recursive)
-		*/
+		
+		// Return all objects that could collide with the given object (recursive)
+		
 		public void Retrieve(List<Mover> returnedObjs, Mover obj) {
 			if (nodes[0] != null) {
 				var index = GetIndex(obj);
@@ -133,10 +133,7 @@ namespace Spacial_Partition.QuadTrees.Movers {
 		}
 
 		public void Draw(SpriteBatch spriteBatch, GraphicsDevice g) {
-			//spriteBatch.Begin();
-			//spriteBatch.Draw(texture, new Rectangle(bounds.Width / 2, 0, 1, bounds.Height), Color.White);
-			//spriteBatch.Draw(texture, new Rectangle(0, bounds.Height / 2, bounds.Width, 1), Color.White);
-			//spriteBatch.End();
+			
 			foreach (QuadTree node in nodes) {
 				if (node != null) {
 					node.Draw(spriteBatch, g);
