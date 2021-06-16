@@ -1,0 +1,37 @@
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Spatial Partition.exe
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Spatial Partition.deps.json
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Spatial Partition.runtimeconfig.json
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Spatial Partition.runtimeconfig.dev.json
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Spatial Partition.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Spatial Partition.pdb
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.csprojAssemblyReference.cache
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.AssemblyInfoInputs.cache
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.AssemblyInfo.cs
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.csproj.CopyComplete
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.dll
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.pdb
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\obj\Debug\netcoreapp3.1\Spatial Partition.genruntimeconfig.cache
+C:\Users\GamingPC\source\repos\Spatial Partition\Spatial Partition\bin\Debug\netcoreapp3.1\Content\Boid.xnb
