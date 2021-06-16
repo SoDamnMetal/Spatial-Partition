@@ -349,7 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-app.manifest
+#app.manifest
 Icon.bmp
 Icon.ico
 Spatial Partition.csproj
