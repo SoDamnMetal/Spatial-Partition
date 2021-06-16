@@ -355,3 +355,4 @@ Icon.ico
 Spatial Partition.csproj
 Spatial Partition.sln
 Content/Content.mgcb
+git rm --cached app.manifest.ext
