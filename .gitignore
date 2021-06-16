@@ -352,6 +352,6 @@ MigrationBackup/
 app.manifest
 Icon.bmp
 Icon.ico
-Spacial Partition.csproj
-Spacial Partition.sln
+Spatial Partition.csproj
+Spatial Partition.sln
 Content/Content.mgcb
